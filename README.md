@@ -261,7 +261,7 @@ $
 
 ## Authors & Copyrights
 
-* Aniekan Udo <[https://www.linkedin.com/in/aniekan-udo](https://github.com/Anny85-code)>
+* Aniekan Udo <[Aniekan Udo](https://www.linkedin.com/in/aniekan-udo)>
 * Olibrahim <[Olibrahim](https://github.com/Olibrahim)>
 
 ## More information
